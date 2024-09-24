@@ -19,7 +19,7 @@
 ## Bienvenido! 👋
 
 
-[Carrito de Compra](https://diegudeveloper.github.io/Project-_Carrito_de_Compra_Js/) Otro proyecto con un nivel un poco más alto, el mismo se basa en una página web donde existen varios productos a los cuales se pueden seleccionar para su compra. Al seleccionar cualquier producto o productos, los mismos serán incorporados en el carrito mencionado con su descripción y cantidad. 
+[Carrito de Compra](https://github.com/alejandrorndev/carrito-compras-js) Otro proyecto con un nivel un poco más alto, el mismo se basa en una página web donde existen varios productos a los cuales se pueden seleccionar para su compra. Al seleccionar cualquier producto o productos, los mismos serán incorporados en el carrito mencionado con su descripción y cantidad. 
 
 
 Dicho carrito contará con la característica de sumar en cantidad los productos seleccionados, así cómo la eliminación de los mismos y la opción de vaciar carrito.
